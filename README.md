@@ -2,6 +2,10 @@
 
 Este Projeto Foi feito somente o sistema, essa é a primeira versão implementada.
 
+Ja a segunda versão foi implementado o  banco de dados Mysql(Xampp)
+
+que funcionou perfeitamente em ambient de teste
+
 o Banco de Dados:
 foi utilizado o bloco de notas para armazenar a informação
 
