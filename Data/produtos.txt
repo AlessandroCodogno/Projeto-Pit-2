@@ -1,0 +1,4 @@
+1|Arroz|50|1|
+2|Feijão|80|1|feijao preto
+3|milho|60|2|milho amarelo
+4|bolo|10|1|bnbn

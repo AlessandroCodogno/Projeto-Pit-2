@@ -1,0 +1,6 @@
+2|1|cliente2|sansobrenome|rua das palmeiras|968591672|1|1960/10/20|2023/11/23
+3|1|cliente3|sansobrenome|rua das palmeiras|968591672|2|1980/10/20|2023/11/22
+teste|1|teste|teste|teste|teste|2|1994/11/08|2023/11/26
+45|1|ew|wew|ew|ew|0|2023/12/01|2023/12/01
+1|2|cliente1|sansobrenome|1|1|0|1999/06/10|2023/12/01
+6|1|w|w|w|w|0|2023/12/01|2023/12/01
